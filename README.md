@@ -1,7 +1,7 @@
 ### CSCI 5622 - Machine Learning  
+***
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/chrisketelsen/csci5622notebooks)
-***
 
 Welcome to the new home of the in-class exercises for CSCI 5622 - Machine Learning.  If you would like to run an interactive notebook without installing Jupyter on your machine you may click on the Launch Binder badge above.  If you would like to view a notebook as a static page, I recommend using the links provided below to the view the page through nbviewer.  The MathJax rendering through GitHub can be kinda janky sometimes.  
 
