@@ -17,3 +17,5 @@ Welcome to the new home of the in-class exercises for CSCI 5622 - Machine Learni
 
 [07_The_Kernel_Trick_and_HyperParameter_Tuning](http://nbviewer.jupyter.org/github/chrisketelsen/csci5622notebooks/blob/master/07_Kernel_Trick_and_HyperParam_Tuning.ipynb)
 
+[10_Linear_Regression_Bias_Variance_Trade_Off](http://nbviewer.jupyter.org/github/chrisketelsen/csci5622notebooks/blob/master/10_Linear_Regression_Bias_Variance.ipynb)
+
