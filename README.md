@@ -19,3 +19,7 @@ Welcome to the new home of the in-class exercises for CSCI 5622 - Machine Learni
 
 [10_Linear_Regression_Bias_Variance_Trade_Off](http://nbviewer.jupyter.org/github/chrisketelsen/csci5622notebooks/blob/master/10_Linear_Regression_Bias_Variance.ipynb)
 
+[14_Multiclass_Classification_and_Ranking](http://nbviewer.jupyter.org/github/chrisketelsen/csci5622notebooks/blob/master/14_Multiclass_and_Ranking.ipynb)
+
+[15_Feature_Engineering](http://nbviewer.jupyter.org/github/chrisketelsen/csci5622notebooks/blob/master/15_Feature_Engineering.ipynb)
+
