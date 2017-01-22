@@ -7,6 +7,8 @@ Welcome to the new home of the in-class exercises for CSCI 5622 - Machine Learni
 
 [02_Naive_Bayes](https://nbviewer.jupyter.org/github/chrisketelsen/csci5622notebooks/blob/master/02_Naive_Bayes.ipynb)
 
+<!---
+
 [03_Logistic_Regression_and_Text_Models](http://nbviewer.jupyter.org/github/chrisketelsen/csci5622notebooks/blob/master/03_Logistic_Regression_and_Text_Models.ipynb)
 
 [04_Stochastic_Gradient_Ascent](http://nbviewer.jupyter.org/github/chrisketelsen/csci5622notebooks/blob/master/04_Stochastic_Gradient_Ascent.ipynb)
@@ -23,3 +25,4 @@ Welcome to the new home of the in-class exercises for CSCI 5622 - Machine Learni
 
 [15_Feature_Engineering](http://nbviewer.jupyter.org/github/chrisketelsen/csci5622notebooks/blob/master/15_Feature_Engineering.ipynb)
 
+-->
